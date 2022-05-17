@@ -1,0 +1,8 @@
+NSe despliega correctamente el elemento input usuario, identificador: imUname
+pasa1
+ISe despliega correctamente el elemento titulo, identificador: imPgTitle
+pasa2
+[PdfBciReport] closePDF
+ [PdfBciReport] createTitlePage
+=Error en Cargar un elemento: java.lang.NullPointerException
+!File: 014FWXJ14EHBHYX Not found

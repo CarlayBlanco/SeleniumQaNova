@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="testSuites.Prueba" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-05-17T02:04:31" hostname="DESKTOP-OTCDFO5" time="9.195">
+  <properties/>
+  <testcase name="pruebaLogin" classname="testSuites.Prueba" time="9.195"/>
+  <system-out><![CDATA[Se despliega correctamente el elemento input usuario, identificador: imUname
+pasa1
+Se despliega correctamente el elemento titulo, identificador: imPgTitle
+pasa2
+[PdfBciReport] closePDF
+[PdfBciReport] createTitlePage
+Error en Cargar un elemento: java.lang.NullPointerException
+File: 014FWXJ14EHBHYX Not found
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
