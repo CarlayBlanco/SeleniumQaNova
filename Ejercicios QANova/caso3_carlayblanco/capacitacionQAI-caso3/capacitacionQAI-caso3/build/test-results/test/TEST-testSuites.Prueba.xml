@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="testSuites.Prueba" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-05-18T01:24:22" hostname="DESKTOP-OTCDFO5" time="12.194">
+  <properties/>
+  <testcase name="pruebaLogin" classname="testSuites.Prueba" time="12.194"/>
+  <system-out><![CDATA[Se despliega correctamente el elemento input usuario, identificador: imUname
+Se despliega correctamente el elemento titulo, identificador: imPgTitle
+[PdfBciReport] closePDF
+[PdfBciReport] createTitlePage
+Error en Cargar un elemento: java.lang.NullPointerException
+File: JJ2VA515LI2YPSG Not found
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
